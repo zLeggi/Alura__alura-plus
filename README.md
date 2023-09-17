@@ -6,7 +6,7 @@ Página promocional, criada durante o curso de HTML e CSS da Alura.
 
 *Apenas desktop*
 
-![image](https://github.com/zLeggi/Alura__alura-plus/assets/132202776/b2ed55f8-6e83-4cc4-93a0-12197c967550)
+![image](https://github.com/zLeggi/Alura__alura-plus/assets/132202776/a67b47e6-7f5e-4123-99df-a9ff125915f5)
 
 ### Ferramentas utilizadas:
 
@@ -15,7 +15,7 @@ Página promocional, criada durante o curso de HTML e CSS da Alura.
 * CSS
 
 
-### Link para o projeto: https://alura-alura-plus-omega.vercel.app/
+### Link para o projeto: https://alura-alura-plus-ashy.vercel.app/
 
 ## Feito por:
 ### Leandro Almeida ( zLeggi)
