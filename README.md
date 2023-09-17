@@ -6,7 +6,7 @@ Página promocional, criada durante o curso de HTML e CSS da Alura.
 
 *Apenas desktop*
 
-![image](https://github.com/zLeggi/Alura__Alura-plus/assets/132202776/b2ed55f8-6e83-4cc4-93a0-12197c967550)
+![image](https://github.com/zLeggi/Alura__alura-plus/assets/132202776/b2ed55f8-6e83-4cc4-93a0-12197c967550)
 
 ### Ferramentas utilizadas:
 
